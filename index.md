@@ -1,3 +1,8 @@
+ <head>
+    ...
+    <link rel="shortcut icon" type="image/png" href="mhsymbol.png">
+  </head>
+
 ```c++
     #include <iostream>
     void main(){
