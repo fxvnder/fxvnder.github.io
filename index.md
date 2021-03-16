@@ -1,5 +1,3 @@
-![Drag Racing](https://i.imgur.com/m8PGKEc.jpg)
-
 ```c++
     #include <iostream>
     void main(){
@@ -16,3 +14,5 @@ For more contact/questions, use my email:
 
 *Regarding NadaRadical: fxvnder@nadaradical.com*
 
+![Always watching. No eyes.](https://i.imgur.com/m8PGKEc.jpg)
+*Always watching.*
