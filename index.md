@@ -1,6 +1,18 @@
-<!DOCTYPE html>
-<html>
-<body>
-  <h1>Teste</h1>
-</body>
-</html>
+![Drag Racing](https://i.imgur.com/m8PGKEc.jpg)
+
+```c++
+    #include <iostream>
+    void main(){
+        std::cout << "Welcome to my page!" << std::endl;
+        // hope you enjoy your stay :)
+    }
+``` 
+
+**For my link tree click [here](https://linktr.ee/fxvnder).**
+
+For more contact/questions, use my email:
+
+*Personal: fxvnder@gmail.com*
+
+*Regarding NadaRadical: fxvnder@nadaradical.com*
+
