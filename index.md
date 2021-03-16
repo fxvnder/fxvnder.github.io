@@ -15,9 +15,9 @@
 
 For more contact/questions, use my email:
 
-*Personal: fxvnder@gmail.com*
+*Personal: [fxvnder@gmail.com](fxvnder@gmail.com)*
 
-*Regarding NadaRadical: fxvnder@nadaradical.com*
+*Regarding NadaRadical: [fxvnder@nadaradical.com](fxvnder@nadaradical.com)*
 
 ![Always watching. No eyes.](https://i.imgur.com/m8PGKEc.jpg)
 *Always watching.*
