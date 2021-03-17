@@ -21,8 +21,7 @@ For more contact/questions, use my email:
 
 For donations: [PayPal](paypal.me/fxvnderofficial) or [Ko-Fi](https://ko-fi.com/fxvnder).
 
-For crypto donations: 
-https://pastebin.com/V0aYTHL3 (most cryptocurrencies avaliable)
+For crypto donations: [https://pastebin.com/V0aYTHL3](Click here) (most cryptocurrencies avaliable)
 
 QR-Codes for $BTC // $ETH // $LTC (in this order)
 
