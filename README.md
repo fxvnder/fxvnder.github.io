@@ -2,4 +2,4 @@
 
 Playing around with GitHub Pages :)
 
-Feel free to visit it: https://fxvnder.github.io
+Feel free to visit it and suggest changes: https://fxvnder.github.io
