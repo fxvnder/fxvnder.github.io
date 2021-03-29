@@ -14,7 +14,7 @@
 
 For more contact/questions, use my email:
 
-_Personal: [fxvnder@gmail.com](fxvnder@gmail.com)_
+_Personal: [fxvnder@pm.me](fxvnder@pm.me)_
 
 _Regarding NadaRadical: [fxvnder@nadaradical.com](fxvnder@nadaradical.com)_
 
